@@ -8,8 +8,6 @@ The Microsoft .NET Framework Data Provider for SQL Server **does not** support t
 
 ## The following is copied from [xbsofware/querysql/README.md](https://github.com/xbsoftware/querysql#readme)
 
----
-
 ### Converts JSON config to SQL Query
 
 ```json
